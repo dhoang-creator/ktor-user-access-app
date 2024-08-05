@@ -7,6 +7,7 @@ import io.ktor.http.*
 import io.ktor.server.testing.*
 import kotlin.test.*
 
+// we need better test files than these (this comment is also a test :P)
 class ApplicationTest {
     @Test
     fun testRoot() = testApplication {
