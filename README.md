@@ -16,9 +16,14 @@
 
 ## <a name='TOC'>Table of Contents</a>
 
-- [Use Cases & Context](#use_cases_&_context)
+- [Introduction](#introduction)
+    - [Why?](#why?)
+    - [Use Cases](#use_cases)
 
-- [Getting Started](#getting_started)
+- [Installation](#installation)
+    - [Configuration](#configuration)
+    - [TEMP Environment Variables](#environment_variables)
+    - [Getting Started](#getting_started)
 
 - [Credits](#credits)
     - [Licence](#licence)
